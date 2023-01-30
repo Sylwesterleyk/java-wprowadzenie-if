@@ -1,4 +1,4 @@
-public class ShopAssistant {
+public class TravelAssistant {
     public static void main(String[] args) {
         int distance = 500000000;
         int walk = 300;
